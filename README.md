@@ -14,7 +14,7 @@
 - **Tools:** Eclipse, Lucidcharts, DB2
 
 ## 📬  Let's Connect!
-- **Email:** ferrerjasminemae04@hmail.com
+- **Email:** ferrerjasminemae04@gmail.com
 
 <!--
 **ferrerjasminemae/ferrerjasminemae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
