@@ -8,7 +8,7 @@
 ## 📜 Certification
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/39e5c6f4849046f982902d8b00ea6146)
 
-##💡 Skill Sets
+## 💡 Skill Sets
 - **Programming:** Java
 - **Databases:** SQL
 - **Tools:** Eclipse, Lucidcharts, DB2
