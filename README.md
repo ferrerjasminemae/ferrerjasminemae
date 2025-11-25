@@ -1,19 +1,19 @@
 ## Hi there, I'm Jasmine Mae Ferrer👋
 
-## Education
+## 🎓 Education
 - **BS Computer Science**
   New Era University
   2024-Present
 
-## Certification
+## 📜 Certification
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/39e5c6f4849046f982902d8b00ea6146)
 
-## Skill Sets
+##💡 Skill Sets
 - **Programming:** Java
 - **Databases:** SQL
 - **Tools:** Eclipse, Lucidcharts, DB2
 
-## 📨 Let's Connect!
+## 📬  Let's Connect!
 - **Email:** ferrerjasminemae04@hmail.com
 
 <!--
