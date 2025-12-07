@@ -7,6 +7,7 @@
 
 ## 📜 Certification
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/39e5c6f4849046f982902d8b00ea6146)
+- [OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2BA06B4F96E13989FEDA99AFC3A839C749970EF28EE5CA01765580C0EFF3E892)
 
 ## 💡 Skill Sets
 - **Programming:** Java
